@@ -1,0 +1,991 @@
+# Copyright (C) 2015 QerraPress
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quidus 1.53\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/quidus\n"
+"POT-Creation-Date: 2015-05-06 12:26:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:16
+msgid "ERROR 404!"
+msgstr ""
+
+#: 404.php:18
+msgid "This page does not exist. You should go back or try a search."
+msgstr ""
+
+#: archive.php:40 search.php:36
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:41 search.php:37
+msgid "Next page"
+msgstr ""
+
+#: archive.php:42 content-link.php:41 content-page.php:44 content.php:46
+#: image.php:62 index.php:44 search.php:38 content-video.php:43
+#: content-search.php:78 content-quote.php:39 content-image.php:51
+#: content-gallery.php:42 content-audio.php:47 content-search.php:94
+msgid "Page"
+msgstr ""
+
+#: comments.php:22
+msgctxt "comments title"
+msgid "Comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s opinions on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:46
+msgid "Comment posting is disabled at the moment."
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:220
+msgid "Read more %s"
+msgstr ""
+
+#: content-link.php:37 content-page.php:40 content.php:42 image.php:58
+#: content-image.php:47 content-gallery.php:38 content-audio.php:43
+#: content-video.php:39 content-quote.php:35 content-search.php:74
+#: content-search.php:90
+msgid "Pages:"
+msgstr ""
+
+#: content-link.php:34 content-page.php:32 content.php:38
+#: content-image.php:43 content-gallery.php:34 content-audio.php:39
+#: content-video.php:35 content-quote.php:32 content-search.php:55
+#: content-search.php:58 content-search.php:61 content-search.php:64
+#: content-search.php:71 content-search.php:87 content-search.php:100
+msgid "Read More"
+msgstr ""
+
+#: content-link.php:22 content-page.php:21 content-search.php:47
+#: content.php:22 image.php:27
+msgid "Edit"
+msgstr ""
+
+#: content-none.php:14
+msgid "No content found"
+msgstr ""
+
+#: content-none.php:19
+msgid ""
+"Start publishing <a href="%1$s">here</a>."
+msgstr ""
+
+#: content-none.php:23
+msgid ""
+"No results found for your query."
+msgstr ""
+
+#: content-none.php:28
+msgid ""
+"We can&rsquo;t find what you are looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: footer.php:66
+msgid "Quidus 2015. All rights reserved. Theme by "
+msgstr ""
+
+#: footer.php:67
+msgid "http://qerrapress.com"
+msgstr ""
+
+#: footer.php:69
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:68
+msgid ". Powered by "
+msgstr ""
+
+#: functions.php:348
+msgid "The theme description."
+msgstr ""
+
+#: functions.php:58
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:109
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:124, functions.php:148
+msgid "Footer Widget One"
+msgstr ""
+
+#: functions.php:126, functions.php:136, functions.php:150
+#: functions.php:160, functions.php:170
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:134, functions.php:158
+msgid "Footer Widget Two"
+msgstr ""
+
+#: functions.php:168
+msgid "Footer Widget Three"
+msgstr ""
+
+#: functions.php:183
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:185
+msgid "Add widgets here to appear in your right sidebar."
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:212
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Noto Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:217
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:222
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:227
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions.php:305
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:306
+msgid "collapse child menu"
+msgstr ""
+
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:47
+msgid "Menu and widgets"
+msgstr ""
+
+#: image.php:22
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:22
+msgid "Next Image"
+msgstr ""
+
+#: image.php:73
+msgctxt "Parent post link"
+msgid ""
+"<span class=\"meta-nav\">Published in</span><span class=\"post-title\">"
+"%title</span>"
+msgstr ""
+
+#: inc/customizer-sections.php:13
+msgid "Advanced Color Options"
+msgstr ""
+
+#: inc/customizer-sections.php:14
+msgid "Please use these with caution. Good Luck!"
+msgstr ""
+
+#: inc/customizer-sections.php:19
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer-sections.php:20
+msgid "Typography Options"
+msgstr ""
+
+#: inc/customizer-sections.php:25
+msgid "Social"
+msgstr ""
+
+#: inc/customizer-sections.php:26
+msgid "Social Options"
+msgstr ""
+
+#: inc/customizer-sections.php:30
+msgid "General Color Options"
+msgstr ""
+
+#: inc/customizer-sections.php:31
+msgid "For quick optimization only."
+msgstr ""
+
+#: inc/customizer-sections.php:36
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer-sections.php:42
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer-sections.php:48
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer-sections.php:54
+msgid "Buttons"
+msgstr ""
+
+#: inc/customizer-sections.php:60
+msgid "Headings"
+msgstr ""
+
+#: inc/customizer-sections.php:66
+msgid "Post Items"
+msgstr ""
+
+#: inc/customizer-sections.php:72
+msgid "Elements"
+msgstr ""
+
+#: inc/customizer-sections.php:78
+msgid "Header Social Icons"
+msgstr ""
+
+#: inc/customizer-sections.php:84
+msgid "Author Social Icons"
+msgstr ""
+
+#: inc/customizer-sections.php:90
+msgid "Footer Social Icons"
+msgstr ""
+
+#: inc/customizer-sections.php:96
+msgid "General Font Family Options"
+msgstr ""
+
+#: inc/customizer-sections.php:101
+msgid "Advanced Font Size Options"
+msgstr ""
+
+#: inc/customizer-sections.php:101
+msgid "Adjust the ratio of font size. The minimum step is 1."
+msgstr ""
+
+#: inc/customizer-sections.php:107
+msgid "Excerpt"
+msgstr ""
+
+#: inc/customizer-sections.php:113
+msgid "Layout"
+msgstr ""
+
+#: inc/customizer-sections.php:113
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:82, inc/customizer.php:94
+msgid "Social Network Url"
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Author&rsquo;s social network url"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Main Color"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/customizer.php:139
+msgid "Special Color"
+msgstr ""
+
+#: inc/customizer.php:148
+msgid "Enable Advanced Color Options"
+msgstr ""
+
+#: inc/customizer.php:149
+msgid "You can turn advanced color customization on if basic one isn\'t enough."
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer.php:171
+msgid "Site Description Color"
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "Site Title Hover Color"
+msgstr ""
+
+#: inc/customizer.php:191
+msgid "Social Icon"
+msgstr ""
+
+#: inc/customizer.php:200
+msgid "Social Icon Hover"
+msgstr ""
+
+#: inc/customizer.php:211
+msgid "Menu Item"
+msgstr ""
+
+#: inc/customizer.php:220
+msgid "Menu Item Description"
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Menu Background"
+msgstr ""
+
+#: inc/customizer.php:238
+msgid "Pagination Background"
+msgstr ""
+
+#: inc/customizer.php:247
+msgid "Pagination Background Hover"
+msgstr ""
+
+#: inc/customizer.php:258
+msgid "H1 Heading"
+msgstr ""
+
+#: inc/customizer.php:267
+msgid "H2 Heading"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid "H3 Heading"
+msgstr ""
+
+#: inc/customizer.php:285
+msgid "H4 Heading"
+msgstr ""
+
+#: inc/customizer.php:294
+msgid "H5 Heading"
+msgstr ""
+
+#: inc/customizer.php:303
+msgid "H6 Heading"
+msgstr ""
+
+#: inc/customizer.php:314
+msgid "Button Background"
+msgstr ""
+
+#: inc/customizer.php:323
+msgid "Button Background Hover"
+msgstr ""
+
+#: inc/customizer.php:394
+msgid "Body Text"
+msgstr ""
+
+#: inc/customizer.php:343
+msgid "List Item"
+msgstr ""
+
+#: inc/customizer.php:352
+msgid "Post Meta"
+msgstr ""
+
+#: inc/customizer.php:361
+msgid "Post Meta Icon"
+msgstr ""
+
+#: inc/customizer.php:370
+msgid "Post Format Icon"
+msgstr ""
+
+#: inc/customizer.php:379
+msgid "Post Format Icon Background"
+msgstr ""
+
+#: inc/customizer.php:388
+msgid "Table Header"
+msgstr ""
+
+#: inc/customizer.php:397
+msgid "Table Item"
+msgstr ""
+
+#: inc/customizer.php:406
+msgid "Blockquote Border"
+msgstr ""
+
+#: inc/customizer.php:415
+msgid "Definition List Title"
+msgstr ""
+
+#: inc/customizer.php:424
+msgid "Address"
+msgstr ""
+
+#: inc/customizer.php:433
+msgid "Code"
+msgstr ""
+
+#: inc/customizer.php:442
+msgid "Post Pagination Background"
+msgstr ""
+
+#: inc/customizer.php:451
+msgid "Post Pagination Background Hover"
+msgstr ""
+
+#: inc/customizer.php:464
+msgid "Body Font Family"
+msgstr ""
+
+#: inc/customizer.php:465
+msgid "Changes font of all non-header elements."
+msgstr ""
+
+#: inc/customizer.php:477
+msgid "Headers Font Family"
+msgstr ""
+
+#: inc/customizer.php:478
+msgid "Changes font of all the header elements."
+msgstr ""
+
+#: inc/customizer.php:492
+msgid "Sidebar Width (desktop)"
+msgstr ""
+
+#: inc/customizer.php:493
+msgid "Changes width of the sidebar for screen sizes that are higher than 955px"
+msgstr ""
+
+#: inc/customizer.php:509
+msgid "Content Width (desktop)"
+msgstr ""
+
+#: inc/customizer.php:510
+msgid "Changes width of the content for screen sizes that are higher than 955px"
+msgstr ""
+
+#: inc/customizer.php:526
+msgid "Logo Upload"
+msgstr ""
+
+#: inc/customizer.php:527
+msgid "Recommended logo size is 340x136px."
+msgstr ""
+
+#: inc/customizer.php:538
+msgid "Favicon Upload"
+msgstr ""
+
+#: inc/customizer.php:539
+msgid "Recommended favicon size is 16x16px."
+msgstr ""
+
+#: inc/customizer.php:550
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer.php:551
+msgid "Adjust length of excerpt"
+msgstr ""
+
+#: inc/customizer.php:567
+msgid "H1 Font Size"
+msgstr ""
+
+#: inc/customizer.php:581
+msgid "Site Title Font Size"
+msgstr ""
+
+#: inc/customizer.php:595
+msgid "H2 Font Size"
+msgstr ""
+
+#: inc/customizer.php:609
+msgid "Widget Title Font Size"
+msgstr ""
+
+#: inc/customizer.php:623
+msgid "H3 Font Size"
+msgstr ""
+
+#: inc/customizer.php:637
+msgid "H4 Font Size"
+msgstr ""
+
+#: inc/customizer.php:651
+msgid "H5 Font Size"
+msgstr ""
+
+#: inc/customizer.php:665
+msgid "H6 Font Size"
+msgstr ""
+
+#: inc/customizer.php:679
+msgid "Content Meta Font Size"
+msgstr ""
+
+#: inc/customizer.php:693
+msgid "Content Paragraph Font Size"
+msgstr ""
+
+#: inc/customizer.php:707
+msgid "Site Description Font Size"
+msgstr ""
+
+#: inc/customizer.php:721
+msgid "Unordered & Ordered Lists Font Size"
+msgstr ""
+
+#: inc/customizer.php:735
+msgid "Table & Calendar Font Size"
+msgstr ""
+
+#: inc/customizer.php:749
+msgid "Definition List Font Size"
+msgstr ""
+
+#: inc/customizer.php:763
+msgid "Address Font Size"
+msgstr ""
+
+#: inc/customizer.php:777
+msgid "Code Font Size"
+msgstr ""
+
+#: inc/customizer.php:791
+msgid "Enable Footer Widgets"
+msgstr ""
+
+#: inc/customizer.php:800
+msgid "Footer Widget Layout"
+msgstr ""
+
+#: inc/customizer.php:801
+msgid "Choose how many widgets you want to appear in footer."
+msgstr ""
+
+#: inc/customizer.php:814
+msgid "Hide Entry Meta On Single Posts"
+msgstr ""
+
+#: inc/customizer.php:823
+msgid "Hide Featured Image On Home Page"
+msgstr ""
+
+#: inc/customizer.php:824
+msgid "Faster home page loading speed improves on-page SEO but may hurt aesthetics."
+msgstr ""
+
+#: inc/customizer.php:833
+msgid "Hide Featured Image On Search Page"
+msgstr ""
+
+#: inc/customizer.php:842
+msgid "Website Max Width"
+msgstr ""
+
+#: inc/customizer.php:856
+msgid "Logo Max Width"
+msgstr ""
+
+#: inc/customizer.php:870
+msgid "Logo Max Width (tablet large)"
+msgstr ""
+
+#: inc/customizer.php:884
+msgid "Logo Max Width (tablet small)"
+msgstr ""
+
+#: inc/customizer.php:898
+msgid "Logo Max Width (mobile)"
+msgstr ""
+
+#: inc/customizer.php:926
+msgid "Enable Custom Body Font"
+msgstr ""
+
+#: inc/customizer.php:935
+msgid "Body Font (Custom)"
+msgstr ""
+
+#: inc/customizer.php:944
+msgid "Body Font Family (Custom)"
+msgstr ""
+
+#: inc/customizer.php:953
+msgid "Enable Custom Header Font"
+msgstr ""
+
+#: inc/customizer.php:962
+msgid "Headers Font (Custom)"
+msgstr ""
+
+#: inc/customizer.php:971
+msgid "Headers Font Family (Custom)"
+msgstr ""
+
+#: inc/customizer.php:980
+msgid "Site Distance From Left (desktop/%)"
+msgstr ""
+
+#: inc/customizer.php:994
+msgid "Switch To Centered Site Layout"
+msgstr ""
+
+#: inc/customizer.php:995
+msgid "Distance from right and left sides will be the same."
+msgstr ""
+
+#: inc/customizer.php:1004
+msgid "Post Title & Meta Align Left"
+msgstr ""
+
+#: inc/customizer.php:1013
+msgid "Widget Title Align Left"
+msgstr ""
+
+#: inc/customizer.php:1022
+msgid "Enable Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:1031
+msgid "Right Sidebar Width"
+msgstr ""
+
+#: inc/template-tags.php:18
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/template-tags.php:21
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:25
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/template-tags.php:63
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: inc/template-tags.php:72
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: inc/template-tags.php:78 inc/template-tags.php:86
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:89
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:81
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:101
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#: inc/template-tags.php:110
+msgid "Leave a reply"
+msgstr ""
+
+#: inc/template-tags.php:110
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:110
+msgid "% Comments"
+msgstr ""
+
+#: search.php:15
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Quidus"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://qerrapress.com/quidus-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Quidus is clean and fresh responsive WordPress blog theme."
+"It is retina ready, has unlimited colors, 6 post formats, loads of customization options and content focused layout."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "QerraPress"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:155
+#: ../inc/TGM/quidus-tgm-activate.php:74
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:156
+#: ../inc/TGM/quidus-tgm-activate.php:75
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:157
+#: ../inc/TGM/quidus-tgm-activate.php:76
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:169
+#: ../inc/TGM/quidus-tgm-activate.php:88
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:171
+#: ../inc/TGM/class-tgm-plugin-activation.php:1838
+#: ../inc/TGM/quidus-tgm-activate.php:89
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:172
+#: ../inc/TGM/class-tgm-plugin-activation.php:1536
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../inc/TGM/quidus-tgm-activate.php:77
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/TGM/quidus-tgm-activate.php:90
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1084
+msgid "External Link"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1089
+msgid "Private Repository"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1092
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1096
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1099
+msgid "Required"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1099
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1102
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1104
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1274
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1290
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1291
+msgid "Source"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1292
+msgid "Type"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1293
+msgid "Status"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1311
+msgid "Install"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1312
+msgid "Activate"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1821
+msgid "Install package not available."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1822
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1823
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1824
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1825
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1826
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1837
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1947
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1948
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1948
+#: ../inc/TGM/class-tgm-plugin-activation.php:1957
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1948
+#: ../inc/TGM/class-tgm-plugin-activation.php:1957
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1949
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1954
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1955
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1958
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/TGM/class-tgm-plugin-activation.php:2050
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../panel/quidus-theme-documentaion.php:223
+msgid "Thank You For Using Quidus"
+msgstr ""
+
+#: ../panel/quidus-theme-documentaion.php:214
+msgid "Quidus Theme Support"
+msgstr ""
+
+#: ../panel/quidus-theme-documentaion.php:229
+msgid "Documentation & Support"
+msgstr ""
+
+#: ../panel/quidus-theme-documentaion.php:233
+msgid "Every theme has extensive documentation & support forum."
+msgstr ""
+
+#: ../panel/quidus-theme-documentaion.php:237
+msgid "Our Website"
+msgstr ""

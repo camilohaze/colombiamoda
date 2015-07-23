@@ -1,0 +1,7 @@
+// @codekit-prepend "src/js/core/core"
+// @codekit-prepend "src/js/core/dropdown"
+// @codekit-prepend "src/js/core/modal"
+// @codekit-prepend "src/js/core/nav"
+// @codekit-prepend "src/js/core/switcher"
+// @codekit-prepend "src/js/core/tab"
+// @codekit-prepend "src/js/core/toggle"

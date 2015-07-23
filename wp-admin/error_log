@@ -1,0 +1,12 @@
+[21-Jun-2015 23:26:06 UTC] PHP Notice:  Undefined variable: is_IE in /home/tangoquerido/public_html/wp-admin/edit-form-advanced.php on line 28
+[22-Jun-2015 12:55:54 UTC] PHP Notice:  Trying to get property of non-object in /home/tangoquerido/public_html/wp-includes/post-template.php on line 29
+[22-Jun-2015 14:51:48 UTC] PHP Notice:  Undefined index: plugin in /home/tangoquerido/public_html/wp-admin/includes/update.php on line 281
+[22-Jun-2015 15:37:59 UTC] PHP Notice:  Undefined index: plugin in /home/tangoquerido/public_html/wp-admin/includes/update.php on line 281
+[22-Jun-2015 15:38:05 UTC] PHP Notice:  Undefined index: plugin in /home/tangoquerido/public_html/wp-admin/includes/update.php on line 281
+[22-Jun-2015 15:38:09 UTC] PHP Notice:  Undefined index: plugin in /home/tangoquerido/public_html/wp-admin/includes/update.php on line 281
+[22-Jun-2015 17:19:09 UTC] PHP Notice:  Undefined variable: is_IE in /home/tangoquerido/public_html/wp-admin/edit-form-advanced.php on line 28
+[23-Jun-2015 02:34:01 UTC] PHP Notice:  Undefined variable: is_IE in /home/tangoquerido/public_html/wp-admin/edit-form-advanced.php on line 28
+[23-Jun-2015 02:35:57 UTC] PHP Notice:  Undefined variable: is_IE in /home/tangoquerido/public_html/wp-admin/edit-form-advanced.php on line 28
+[23-Jun-2015 02:59:04 UTC] PHP Notice:  Undefined variable: is_IE in /home/tangoquerido/public_html/wp-admin/edit-form-advanced.php on line 28
+[23-Jun-2015 15:18:19 UTC] PHP Notice:  Undefined index: plugin in /home/tangoquerido/public_html/wp-admin/includes/update.php on line 281
+[23-Jun-2015 15:21:11 UTC] PHP Notice:  Undefined index: plugin in /home/tangoquerido/public_html/wp-admin/includes/update.php on line 281
